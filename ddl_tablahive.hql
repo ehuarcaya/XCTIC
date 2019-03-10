@@ -1,9 +1,10 @@
---1. creacion de ddl para objeto
---2. AUTOR: Johan
---3. fecha: 02/03/2019
+-- 1. crecion de ddl pra objeto HIVES
+--2 AUTOR : ARTURO
+3. rama alterna
 
---creacion de tabla
-create table test(
-campo1 number
+--4 CREACION TABLA
+CREATE TABLA TEST
+(
+CAMPO1 NUMBER
+CAMPO2 DATE
 )
---quinto cambio
